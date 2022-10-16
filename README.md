@@ -3,17 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>MY-WORLD</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="MY-WORLD" />
-<meta property="og:locale" content="vi" />
-<link rel="canonical" href="https://iambestfeed.github.io/MY-WORLD/" />
-<meta property="og:url" content="https://iambestfeed.github.io/MY-WORLD/" />
-<meta property="og:site_name" content="MY-WORLD" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="MY-WORLD" />
-<script type="application/ld+json">
-{"url":"https://iambestfeed.github.io/MY-WORLD/","@type":"WebSite","headline":"MY-WORLD","name":"MY-WORLD","@context":"https://schema.org"}</script>
+    <title>MY-WORLD</title>
 
   </head>
   <body>
