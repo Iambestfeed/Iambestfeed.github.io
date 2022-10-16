@@ -102,7 +102,5 @@
   <img align="left" alt="gmail" width="25px" src="https://img.icons8.com/color/240/000000/gmail-new.png" />
 </a></p>
 </blockquote>
-
-
-      
-    
+  </body>
+</html>
